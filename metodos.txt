@@ -1,0 +1,16 @@
+crear una marca
+
+po no es intruccion tras instruccion, toma una idea general como referencia
+
+cada objeto tiene 2 cualidades
+1: cualidades: caracteristicas tamaño color altura etc ests determinan la unidad del objeto ej: un auto se compone de diferentes caracteristicas
+2: funcionalidades o metodos: cualidades que tiene el objeto, funciones que tiene. ejemplo el carro prende, da luces, pone musica, etc
+
+po permite programar en esta logica cada objeto con sus cualidades y funcionalidades
+
+la clase: es una platilla ejemplo: creame este objeto con estas cualidades. (fabrica de objetos)
+objeto: resultado de la clase, 
+atributo: caracteristicas del objeto
+metodo: cosas que hace el objeto  (es una funcion dentro de una clase)
+constructor: como se construyen las partes del objeto.
+instanciar: cuando el objeto esta construido se denomina la clase como instanciada o el objeto como instanciado = objeto creado
