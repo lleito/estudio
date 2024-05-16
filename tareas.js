@@ -26,4 +26,11 @@ let numeros = (a,b,c,d,e) => {
 
 //crea un codigo con estrucrutas de control que permitan observar diferentes resultados 
 //crea una funcion con la variable let que permita cambiar 
-//crea una clase
+//crea una clasessssss
+
+
+const existe = carroto.some (producto => 
+  producto.nombre === "monitor",)
+  console.log(eviste);
+
+ 
